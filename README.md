@@ -34,3 +34,29 @@ Run the `banking_program.py` script to start the program:
 
 ```sh
 python banking_program.py
+
+
+
+
+
+# Python Hangman Game
+
+A classic game of Hangman implemented in Python. Test your vocabulary and deduction skills as you try to guess the hidden word before the stick figure is complete!
+
+## Features
+
+- **Random Word Selection:** A new word is chosen randomly from a curated list for each game.
+- **Graphical Hangman Display:**  Visual representation of the hangman's progress using ASCII art.
+- **Letter and Word Guesses:** Players can guess individual letters or the entire word.
+- **Error Handling:**  Invalid guesses (non-letters or words of incorrect length) are handled gracefully.
+- **Win/Lose Messages:**  Clear feedback on whether the player wins or loses, revealing the hidden word if they lose.
+
+## Requirements
+
+- Python 3.x
+
+## How to Play
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [invalid URL removed]
