@@ -1,8 +1,11 @@
 # Python Projects
 
-This repository contains two Python projects: a simple banking program and a classic Hangman game.
+This repository contains two Python projects:
 
-## Project 1: Banking Program
+- [Banking Program](#banking-program)
+- [Hangman Game](#hangman-game)
+
+## Project 1: Banking Program {#banking-program}
 
 This program allows you to manage your finances by simulating basic banking operations.
 
@@ -21,9 +24,9 @@ This program allows you to manage your finances by simulating basic banking oper
 
 1. Clone this repository: `git clone [https://github.com/your-username/python-projects.git](https://github.com/your-username/python-projects.git)`
 2. Navigate to the project directory: `cd python-projects`
-3. Run the program: `python banking_program.py` 
+3. Run the program: `python banking_program.py`
 
-## Project 2: Hangman Game
+## Project 2: Hangman Game {#hangman-game}
 
 Test your word-guessing skills with this classic Hangman game!
 
