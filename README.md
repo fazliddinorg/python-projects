@@ -4,6 +4,7 @@ This repository contains two Python projects:
 
 - [Banking Program](#banking-program)
 - [Hangman Game](#hangman-game)
+- [Student grade manager](#student_grade_manager)
 
 ## Project 1: Banking Program {#banking-program}
 
