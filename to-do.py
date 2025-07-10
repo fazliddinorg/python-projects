@@ -116,10 +116,9 @@ class TodoList:
             print("No todos found.")
             return
         
-        # Sort by priority (high first), then by due date
         filtered_todos.sort(key=lambda x: (
-            -x['priority'],  # High priority first
-            x['due_date'] or '9999-12-31'  # Items without due date last
+            -x['priority'], 
+            x['due_date'] or '9999-12-31'  
         ))
         
         print("\n=== Your To-Do List ===")
@@ -158,6 +157,7 @@ class TodoList:
             'overdue': overdue,
             'completion_rate': (completed / total * 100) if total > 0 else 0
         }
+
 
 def main():
     todo_list = TodoList()
