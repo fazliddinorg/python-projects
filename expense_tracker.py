@@ -2,6 +2,7 @@ import json
 import datetime
 from collections import defaultdict
 
+
 class ExpenseTracker:
     def __init__(self, filename="expenses.json"):
         self.filename = filename
